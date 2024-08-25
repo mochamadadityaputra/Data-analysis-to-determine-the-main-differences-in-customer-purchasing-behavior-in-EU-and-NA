@@ -1,8 +1,9 @@
 # Data Analisis dan Data Visualisasi untuk dataset Supermarket Customer
 Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Science Online Batch 15 (JCDSOL-015)
 - Mochamad Aditya Putra
-- Link Drive untuk penjelasan code:
-
+- Link Drive untuk penjelasan PPT:
+- Link untuk Dashboard Tableau:
+  https://public.tableau.com/app/profile/aditya.putra5948/viz/SupermarketCustomerDashboard_17245985050640/Dashboard1?publish=yes
 # Data Dictionary
 |kolom | Penjelasan |
 |----- | ---------- |
