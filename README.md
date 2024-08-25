@@ -35,3 +35,32 @@ Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Sci
 | Z_CostContact | Kolom ini diasumsikan merujuk pada biaya yang dikeluarkan untuk setiap kontak atau interaksi dengan pelanggan. Ini bisa mencakup biaya untuk mengirimkan email, menelepon pelanggan, atau aktivitas pemasaran lainnya. Biasanya, ini adalah biaya rata-rata yang terkait dengan mencapai atau menghubungi pelanggan dalam kampanye pemasaran.|
 | Z_Revenue |Kolom ini diasumsikan merujuk pada pendapatan yang dihasilkan dari pelanggan yang dihubungi. Ini bisa mewakili pendapatan rata-rata yang diperoleh dari setiap kontak atau interaksi dengan pelanggan, terutama dalam konteks kampanye pemasaran.|
 | Response | apakah pelanggan merespons atau menerima tawaran dalam kampanye pemasaran terakhir.|
+
+# Background
+Dalam industri ritel, pemahaman yang mendalam tentang pelanggan adalah kunci keberhasilan untuk meningkatkan penjualan dan mempertahankan loyalitas pelanggan. Supermarket yang beroperasi dalam lingkungan yang sangat kompetitif harus dapat mengenali pola belanja pelanggan mereka, mengidentifikasi segmen pasar yang berbeda, dan merespons kebutuhan dan preferensi pelanggan dengan tepat.
+
+Dataset "Supermarket Customer" mengandung informasi penting mengenai demografi pelanggan, perilaku pembelian, respons terhadap kampanye promosi, dan preferensi produk.
+
+Berikut beberapa fakta mengenai perilaku pembelian pelanggan supermarket di Eropa dan Amerika, yang membandingkan perilaku pembelian melalui Web, Katalog, dan Toko Fisik:
+
+- Eropa:
+  - Perubahan Selama Pandemi: Di Eropa, khususnya selama pandemi COVID-19, terjadi lonjakan besar dalam pembelian online, terutama untuk kebutuhan pokok seperti makanan. Di Swedia, misalnya, pembelian online meningkat sebesar 49% pada tahun 2020 dibandingkan dengan tahun sebelumnya. Hal ini juga terlihat di Italia, di mana pembelian online meningkat 56% dari perkiraan awal 26%. Link artikel: [link text](https://link.springer.com/article/10.1007/s10660-024-09879-6)
+  - Preferensi Produk Lokal dan Kesadaran Lingkungan: Konsumen di Eropa, terutama yang berbelanja online, cenderung memiliki kesadaran yang lebih tinggi terhadap lingkungan dan lebih memilih produk lokal. Hal ini karena produk lokal sering kali dianggap lebih ramah lingkungan dan mengurangi jejak karbon dibandingkan dengan produk yang diimpor. Link artikel: [link text](https://link.springer.com/article/10.1007/s10660-024-09828-3)
+
+- Amerika Serikat:
+  - Dominasi Belanja Online: Di Amerika Serikat, belanja online terus mendominasi terutama dalam kategori non-makanan, dengan Amazon memegang sekitar 40% dari penjualan online pada awal pandemi. Konsumen Amerika lebih sering beralih ke belanja online karena kemudahan dalam membandingkan harga dan ulasan produk dari berbagai sumber, yang jarang ditemukan di toko fisik. Link artikel: [link text](https://link.springer.com/article/10.1007/s10660-024-09879-6)
+  - Interaksi Antar Saluran: Banyak konsumen di Amerika menggabungkan belanja online dan offline untuk mendapatkan manfaat maksimal. Misalnya, mereka sering mencari informasi produk secara online tetapi melakukan pembelian di toko fisik jika harga di sana lebih kompetitif atau jika mereka membutuhkan produk segera. Link artikel: [link text](https://link.springer.com/article/10.1007/s11116-020-10163-3)
+
+# Problem Statement
+Berdasarkan latar belakang di atas dan data set yang diberikan. Saya akan menganalis **'Apa perbedaan utama dalam perilaku pembelian antara Web vs Catalog vs Store?''**
+
+Perilaku Pembelian pada web, catalog dan store:
+* Dengan meningkatnya adopsi teknologi digital, pelanggan sekarang memiliki banyak pilihan untuk berbelanja baik secara online maupun offline. Menganalisis perbedaan perilaku antara pelanggan yang lebih suka berbelanja di web, catalog, dan store dapat membantu supermarket dalam mengoptimalkan strategi pemasaran dan operasi mereka.
+
+Untuk analisis tentang perbedaan perilaku pembelian antara Web, Katalog, dan Toko Fisik, berikut beberapa referensi:
+
+- Perbedaan Pengalaman Berbelanja Online vs Offline: Studi menunjukkan bahwa pengalaman belanja online dan offline memiliki beberapa perbedaan signifikan, terutama dalam hal kemudahan akses informasi, harga, dan kecepatan mendapatkan produk. Misalnya, belanja online menawarkan kemudahan untuk membandingkan produk dan harga, serta menghemat waktu dan biaya transportasi, sementara belanja offline memberikan keuntungan dalam hal segera mendapatkan produk setelah pembelian. Selain itu, harga produk di toko fisik cenderung lebih tinggi dibandingkan dengan harga online. Link artikel:[link text](https://link.springer.com/article/10.1007/s10660-024-09879-6) dan [link text](https://link.springer.com/article/10.1007/s11116-020-10163-3)
+
+- Pilihan Saluran Belanja: Konsumen di negara berkembang menunjukkan preferensi yang bervariasi antara belanja online dan offline tergantung pada faktor-faktor seperti usia, orientasi terhadap kemudahan, dan tanggung jawab lingkungan. Konsumen yang lebih muda dan lebih berorientasi pada kemudahan cenderung lebih sering berbelanja online karena fleksibilitas dan kemudahan yang ditawarkan. Sebaliknya, konsumen yang lebih tradisional mungkin lebih memilih belanja di toko fisik atau melalui katalog. Link artikel:[link text](https://link.springer.com/article/10.1007/s11116-020-10163-3) dan [link text](https://link.springer.com/article/10.1007/s10660-024-09828-3)
+
+- Perilaku Konsumen dalam Belanja Online dan Offline: Perilaku pembelian juga dipengaruhi oleh faktor-faktor seperti kesadaran lingkungan dan preferensi terhadap produk lokal. Konsumen yang berbelanja online sering kali lebih sadar lingkungan dan memiliki preferensi yang lebih kuat terhadap produk lokal dibandingkan dengan mereka yang hanya berbelanja secara offline. Ini bisa menjadi pertimbangan penting dalam analisis perilaku pembelian melalui saluran yang berbeda. Link artikel: [link text](https://link.springer.com/article/10.1007/s10660-024-09828-3)
