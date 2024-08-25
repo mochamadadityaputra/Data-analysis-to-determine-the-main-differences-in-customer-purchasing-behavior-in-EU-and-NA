@@ -1,5 +1,5 @@
 # Data Analisis dan Data Visualisasi untuk dataset Supermarket Customer
-Additional Portofolio Capstone Project Modul 1 Purwadhika Job Connector Data Science Online Batch 15 (JCDSOL-015)
+Additional Portofolio Capstone Project Modul 2 Purwadhika Job Connector Data Science Online Batch 15 (JCDSOL-015)
 - Mochamad Aditya Putra
 - Link Drive untuk penjelasan PPT:
   https://colab.research.google.com/drive/1OgbmvOuiL5LmcMg4hWDoMyzt5sOUyQW_?usp=sharing
