@@ -45,7 +45,7 @@ Dalam industri ritel, pemahaman yang mendalam tentang pelanggan adalah kunci keb
 
 Dataset "Supermarket Customer" mengandung informasi penting mengenai demografi pelanggan, perilaku pembelian, respons terhadap kampanye promosi, dan preferensi produk.
 
-Berikut beberapa fakta mengenai perilaku pembelian pelanggan supermarket di Eropa dan Amerika, yang membandingkan perilaku pembelian melalui Web, Katalog, dan Toko Fisik:
+Berikut beberapa fakta mengenai perilaku pembelian pelanggan supermarket di Eropa dan Amerika, yang membandingkan perilaku pembelian melalui Web, Katalog, dan Store (Toko Fisik):
 
 - Eropa:
   - Perubahan Selama Pandemi: Di Eropa, khususnya selama pandemi COVID-19, terjadi lonjakan besar dalam pembelian online, terutama untuk kebutuhan pokok seperti makanan. Di Swedia, misalnya, pembelian online meningkat sebesar 49% pada tahun 2020 dibandingkan dengan tahun sebelumnya. Hal ini juga terlihat di Italia, di mana pembelian online meningkat 56% dari perkiraan awal 26%. Link artikel: [link text](https://link.springer.com/article/10.1007/s10660-024-09879-6)
