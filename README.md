@@ -3,6 +3,8 @@ Additional Portofolio Capstone Project Modul 2 Purwadhika Job Connector Data Sci
 - Mochamad Aditya Putra
 - Link Drive untuk penjelasan PPT:
   https://drive.google.com/file/d/1eyMCg-rroNzz1jNIKFkWgkvFrBDgpWgR/view?usp=sharing
+- Link Drive untuk PPT:
+  https://docs.google.com/presentation/d/1yjvG5Rbu35j1LL-Ugk5ycrUMSTz2IccZ/edit?usp=drive_link&ouid=115316219821335212082&rtpof=true&sd=true
 - Link untuk google collab notebook:
   https://colab.research.google.com/drive/1OgbmvOuiL5LmcMg4hWDoMyzt5sOUyQW_?usp=sharing
 - Link untuk Dashboard Tableau:
