@@ -8,7 +8,7 @@ Additional Portofolio Capstone Project Modul 2 Purwadhika Job Connector Data Sci
 - Link untuk google collab notebook:
   https://colab.research.google.com/drive/1OgbmvOuiL5LmcMg4hWDoMyzt5sOUyQW_?usp=sharing
 - Link untuk Dashboard Tableau:
-  https://public.tableau.com/app/profile/aditya.putra5948/viz/SupermarketCustomerDashboard_17245985050640/Dashboard1?publish=yes
+  https://public.tableau.com/app/profile/aditya.putra5948/viz/CustSupermarketDash/Dashboard1?publish=yes
 # Data Dictionary
 |kolom | Penjelasan |
 |----- | ---------- |
