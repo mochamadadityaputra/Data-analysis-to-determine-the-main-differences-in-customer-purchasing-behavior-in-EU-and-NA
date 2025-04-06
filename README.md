@@ -9,6 +9,9 @@ Additional Portofolio Capstone Project Modul 2 Purwadhika Job Connector Data Sci
   https://colab.research.google.com/drive/1OgbmvOuiL5LmcMg4hWDoMyzt5sOUyQW_?usp=sharing
 - Link untuk Dashboard Tableau:
   https://public.tableau.com/app/profile/aditya.putra5948/viz/CustSupermarketDash/Dashboard1?publish=yes
+- Link untuk Dashboard Power BI:
+  https://drive.google.com/file/d/1eZgWbMMkgVmCsCUI5wN_r0GdooPXBnNX/view?usp=sharing
+
 # Data Dictionary
 |kolom | Penjelasan |
 |----- | ---------- |
